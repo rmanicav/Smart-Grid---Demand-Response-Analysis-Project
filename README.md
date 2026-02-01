@@ -1,4 +1,7 @@
-# Smart Grid Demand Response Analysis & Anomaly Detection using Machine Learning
+## Overview
+Time-series forecasting of electricity demand using machine learning models.
+
+
 
 ## Problem Statement
 Demand Response (DR) programs rely on accurate prediction of power consumption
