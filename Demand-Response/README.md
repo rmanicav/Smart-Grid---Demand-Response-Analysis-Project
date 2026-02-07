@@ -1,2 +1,3 @@
 # DR/ICS/ OpenAdr
- Demand Repsonse in Smart Grid using OpenAdr
+ Demand Response in Smart Grid using OpenAdr
+
